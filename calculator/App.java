@@ -1,4 +1,4 @@
-import java.awt.*
+import java.awt.*;
 import java.awt.event.*;
 class MyFrame extends Frame implements ActionListener {
     Label l1,l2;
